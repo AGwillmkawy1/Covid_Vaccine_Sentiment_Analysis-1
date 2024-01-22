@@ -9,7 +9,8 @@ For this we use Natural Language Processing - Natural language processing (NLP) 
 
 ## Sentiment Analysis
 Sentiment analysis is the process of analyzing digital text to determine if the emotional tone of the message is positive, negative, or neutral Today, companies have large volumes of text data like emails, customer support chat transcripts, social media comments, and reviews. Sentiment analysis tools can scan this text to automatically determine the author’s attitude towards a topic. Companies use the insights from sentiment analysis to improve customer service and increase brand reputation.
-![Sentiments](Images/sentiment.png)
+![Screenshot 2024-01-22 110415](https://github.com/AGwillmkawy1/Covid_Vaccine_Sentiment_Analysis-1/assets/93640193/3b9a7e98-aad7-44bf-b7bc-0367f8fdcb8f)
+
 
 ## Sentiment Analysis Using Hugging Face
 
